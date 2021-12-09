@@ -1,17 +1,19 @@
 ---
-workshop_id: 
+workshop_id: MMC20211209PR_01
 topic: preregistration
-title: 
-instructors: []
-instructor_emails: []
+title: SPHSU preregistration and registered report workshop
+instructors:
+  - Mark McCann
+instructor_emails:
+  - Mark.McCann@Glasgow.ac.uk
 helpers: []
 start_times:
-  - 09|00
+  - 10|00
 setup_files: []
 language: en
-venue: null
-address: null
-country: null
+venue: Zoom
+address: Berkeley Square
+country: GB
 latitude: null
 longitude: null
 start_date: null
